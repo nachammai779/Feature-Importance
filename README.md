@@ -13,8 +13,6 @@
 - [Method](#method)
 - [Features Analyzed](#features-analyzed)
 - [File Structure](#file-structure)
-- [Requirements](#requirements)
-- [Usage](#usage)
 
 ---
 
@@ -67,20 +65,4 @@ Feature-Importance/
 ├── models.py                  # Model architecture
 ├── plots.py                   # Result visualization
 └── train.all.py               # Training script
-```
-
----
-
-## ⚙️ Requirements
-
-```bash
-pip install numpy tensorflow keras matplotlib
-```
-
----
-
-## 🚀 Usage
-
-```bash
-python train.all.py
 ```
